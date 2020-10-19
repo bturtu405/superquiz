@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.js": "/superquiz/static/js/main.d0555c6d.chunk.js",
+    "main.js.map": "/superquiz/static/js/main.d0555c6d.chunk.js.map",
+    "runtime-main.js": "/superquiz/static/js/runtime-main.674f1f0d.js",
+    "runtime-main.js.map": "/superquiz/static/js/runtime-main.674f1f0d.js.map",
+    "static/js/2.8d8d01ac.chunk.js": "/superquiz/static/js/2.8d8d01ac.chunk.js",
+    "static/js/2.8d8d01ac.chunk.js.map": "/superquiz/static/js/2.8d8d01ac.chunk.js.map",
+    "static/css/3.4018e009.chunk.css": "/superquiz/static/css/3.4018e009.chunk.css",
+    "static/js/3.7793f117.chunk.js": "/superquiz/static/js/3.7793f117.chunk.js",
+    "static/js/3.7793f117.chunk.js.map": "/superquiz/static/js/3.7793f117.chunk.js.map",
+    "index.html": "/superquiz/index.html",
+    "precache-manifest.799e2833fbb220324fb95cddfea6a7eb.js": "/superquiz/precache-manifest.799e2833fbb220324fb95cddfea6a7eb.js",
+    "service-worker.js": "/superquiz/service-worker.js",
+    "static/css/3.4018e009.chunk.css.map": "/superquiz/static/css/3.4018e009.chunk.css.map",
+    "static/js/2.8d8d01ac.chunk.js.LICENSE.txt": "/superquiz/static/js/2.8d8d01ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.674f1f0d.js",
+    "static/js/2.8d8d01ac.chunk.js",
+    "static/js/main.d0555c6d.chunk.js"
+  ]
+}
