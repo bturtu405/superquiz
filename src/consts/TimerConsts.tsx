@@ -1,0 +1,1 @@
+export const TIME_TO_ANSWER_IN_SECONDS = 20;
